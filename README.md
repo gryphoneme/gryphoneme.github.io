@@ -1,2 +1,2 @@
-# gryphoneme.github.io
+# repo for notes
 personal github page
