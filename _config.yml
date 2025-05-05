@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: AJ
 description: github pages is p nice
+markdown: GFM
